@@ -15,6 +15,7 @@
 | [0525-contiguous-array](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0643-maximum-average-subarray-i) |
+| [0835-image-overlap](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0835-image-overlap) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0977-squares-of-a-sorted-array) |
@@ -72,6 +73,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0835-image-overlap) |
 | [0980-unique-paths-iii](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0980-unique-paths-iii) |
 | [1672-richest-customer-wealth](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1672-richest-customer-wealth) |
 ## Math
