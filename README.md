@@ -15,6 +15,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0396-rotate-function](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0396-rotate-function) |
 | [0525-contiguous-array](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0525-contiguous-array) |
+| [0554-brick-wall](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0643-maximum-average-subarray-i) |
 | [0835-image-overlap](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0835-image-overlap) |
@@ -40,6 +41,7 @@
 | [0205-isomorphic-strings](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0205-isomorphic-strings) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0525-contiguous-array](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0525-contiguous-array) |
+| [0554-brick-wall](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0560-subarray-sum-equals-k) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0974-subarray-sums-divisible-by-k) |
