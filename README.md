@@ -36,6 +36,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0001-two-sum) |
 | [0187-repeated-dna-sequences](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0187-repeated-dna-sequences) |
+| [0205-isomorphic-strings](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0205-isomorphic-strings) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0525-contiguous-array](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0560-subarray-sum-equals-k) |
@@ -142,6 +143,7 @@
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0187-repeated-dna-sequences) |
+| [0205-isomorphic-strings](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0205-isomorphic-strings) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0241-different-ways-to-add-parentheses) |
 | [0257-binary-tree-paths](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0257-binary-tree-paths) |
 | [0301-remove-invalid-parentheses](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0301-remove-invalid-parentheses) |
