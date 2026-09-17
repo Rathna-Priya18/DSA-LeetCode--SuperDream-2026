@@ -97,6 +97,7 @@
 | ------- |
 | [0189-rotate-array](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0189-rotate-array) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0241-different-ways-to-add-parentheses) |
+| [0292-nim-game](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0292-nim-game) |
 | [0396-rotate-function](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0396-rotate-function) |
 | [0836-rectangle-overlap](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0836-rectangle-overlap) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -278,4 +279,24 @@
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0143-reorder-list) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
