@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0001-two-sum) |
+| [0057-insert-interval](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0088-merge-sorted-array) |
