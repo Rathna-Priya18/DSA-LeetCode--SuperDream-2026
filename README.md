@@ -8,6 +8,7 @@
 | [0057-insert-interval](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0057-insert-interval) |
 | [0074-search-a-2d-matrix](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0075-sort-colors) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0090-subsets-ii) |
 | [0189-rotate-array](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0189-rotate-array) |
@@ -104,6 +105,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0074-search-a-2d-matrix) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
