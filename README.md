@@ -100,6 +100,7 @@
 | ------- |
 | [0189-rotate-array](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0189-rotate-array) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0241-different-ways-to-add-parentheses) |
+| [0263-ugly-number](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0263-ugly-number) |
 | [0292-nim-game](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0292-nim-game) |
 | [0343-integer-break](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0343-integer-break) |
 | [0365-water-and-jug-problem](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0365-water-and-jug-problem) |
