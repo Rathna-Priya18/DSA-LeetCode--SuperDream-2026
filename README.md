@@ -12,6 +12,7 @@
 | [0088-merge-sorted-array](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0090-subsets-ii) |
 | [0189-rotate-array](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0189-rotate-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0300-longest-increasing-subsequence) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0318-maximum-product-of-word-lengths) |
@@ -71,6 +72,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0088-merge-sorted-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0215-kth-largest-element-in-an-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0977-squares-of-a-sorted-array) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -163,6 +165,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0215-kth-largest-element-in-an-array) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Monotonic Queue
@@ -261,6 +264,7 @@
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0215-kth-largest-element-in-an-array) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -337,4 +341,8 @@
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0300-longest-increasing-subsequence) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
