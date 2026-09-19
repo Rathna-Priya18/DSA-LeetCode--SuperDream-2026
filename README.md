@@ -49,6 +49,7 @@
 | [0884-uncommon-words-from-two-sentences](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3483-unique-3-digit-even-numbers) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Two Pointers
@@ -70,6 +71,7 @@
 | [0088-merge-sorted-array](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0088-merge-sorted-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0977-squares-of-a-sorted-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Quicksort
@@ -173,6 +175,7 @@
 | [0318-maximum-product-of-word-lengths](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0318-maximum-product-of-word-lengths) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Backtracking
 |  |
@@ -191,6 +194,7 @@
 |  |
 | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Counting
 |  |
