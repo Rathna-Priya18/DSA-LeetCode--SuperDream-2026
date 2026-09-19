@@ -356,4 +356,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0347-top-k-frequent-elements) |
+## Database
+|  |
+| ------- |
+| [0185-department-top-three-salaries](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0185-department-top-three-salaries) |
 <!---LeetCode Topics End-->
