@@ -74,6 +74,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1089-duplicate-zeros) |
+| [1332-remove-palindromic-subsequences](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1332-remove-palindromic-subsequences) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Sorting
 |  |
@@ -196,6 +197,7 @@
 | [0318-maximum-product-of-word-lengths](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0318-maximum-product-of-word-lengths) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1332-remove-palindromic-subsequences](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1332-remove-palindromic-subsequences) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3498-reverse-degree-of-a-string) |
