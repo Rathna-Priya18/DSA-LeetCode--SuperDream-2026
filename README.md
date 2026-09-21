@@ -50,6 +50,7 @@
 | [0001-two-sum](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0142-linked-list-cycle-ii](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0142-linked-list-cycle-ii) |
 | [0187-repeated-dna-sequences](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0219-contains-duplicate-ii) |
@@ -70,6 +71,7 @@
 | [0075-sort-colors](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0075-sort-colors) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0088-merge-sorted-array) |
+| [0142-linked-list-cycle-ii](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0143-reorder-list) |
 | [0189-rotate-array](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0283-move-zeroes) |
@@ -286,6 +288,7 @@
 | [0092-reverse-linked-list-ii](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0092-reverse-linked-list-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0142-linked-list-cycle-ii](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0143-reorder-list) |
 | [0147-insertion-sort-list](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0147-insertion-sort-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -389,4 +392,8 @@
 | [0262-trips-and-users](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0262-trips-and-users) |
 | [0596-classes-with-at-least-5-students](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0596-classes-with-at-least-5-students) |
 | [0607-sales-person](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0607-sales-person) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
