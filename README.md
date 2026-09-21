@@ -15,6 +15,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0189-rotate-array](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0215-kth-largest-element-in-an-array) |
+| [0218-the-skyline-problem](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0218-the-skyline-problem) |
 | [0219-contains-duplicate-ii](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0300-longest-increasing-subsequence) |
@@ -88,6 +89,7 @@
 | [0088-merge-sorted-array](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0147-insertion-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0215-kth-largest-element-in-an-array) |
+| [0218-the-skyline-problem](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0218-the-skyline-problem) |
 | [0347-top-k-frequent-elements](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0977-squares-of-a-sorted-array) |
@@ -188,6 +190,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0215-kth-largest-element-in-an-array) |
+| [0218-the-skyline-problem](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0218-the-skyline-problem) |
 | [0347-top-k-frequent-elements](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0347-top-k-frequent-elements) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -299,6 +302,7 @@
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0215-kth-largest-element-in-an-array) |
+| [0218-the-skyline-problem](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0218-the-skyline-problem) |
 | [0347-top-k-frequent-elements](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0347-top-k-frequent-elements) |
 ## Binary Search Tree
 |  |
@@ -311,6 +315,7 @@
 ## Ordered Set
 |  |
 | ------- |
+| [0218-the-skyline-problem](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0218-the-skyline-problem) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Rolling Hash
 |  |
@@ -396,4 +401,16 @@
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0142-linked-list-cycle-ii) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0218-the-skyline-problem) |
+## Segment Tree
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0218-the-skyline-problem) |
+## Sweep Line
+|  |
+| ------- |
+| [0218-the-skyline-problem](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0218-the-skyline-problem) |
 <!---LeetCode Topics End-->
