@@ -23,6 +23,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0396-rotate-function](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0396-rotate-function) |
+| [0463-island-perimeter](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0463-island-perimeter) |
 | [0506-relative-ranks](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0506-relative-ranks) |
 | [0525-contiguous-array](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0525-contiguous-array) |
 | [0554-brick-wall](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0554-brick-wall) |
@@ -122,6 +123,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0074-search-a-2d-matrix) |
+| [0463-island-perimeter](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0463-island-perimeter) |
 | [0835-image-overlap](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0835-image-overlap) |
 | [0980-unique-paths-iii](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0980-unique-paths-iii) |
 | [1672-richest-customer-wealth](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1672-richest-customer-wealth) |
@@ -243,6 +245,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0301-remove-invalid-parentheses](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0301-remove-invalid-parentheses) |
 | [0365-water-and-jug-problem](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0365-water-and-jug-problem) |
+| [0463-island-perimeter](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0463-island-perimeter) |
 ## Greedy
 |  |
 | ------- |
@@ -297,6 +300,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0257-binary-tree-paths) |
 | [0365-water-and-jug-problem](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0365-water-and-jug-problem) |
+| [0463-island-perimeter](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0463-island-perimeter) |
 ## Binary Tree
 |  |
 | ------- |
