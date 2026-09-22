@@ -54,6 +54,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0142-linked-list-cycle-ii](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0142-linked-list-cycle-ii) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0166-fraction-to-recurring-decimal) |
 | [0187-repeated-dna-sequences](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0219-contains-duplicate-ii) |
@@ -127,6 +128,7 @@
 ## Math
 |  |
 | ------- |
+| [0166-fraction-to-recurring-decimal](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0189-rotate-array) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0241-different-ways-to-add-parentheses) |
 | [0263-ugly-number](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0263-ugly-number) |
@@ -214,6 +216,7 @@
 |  |
 | ------- |
 | [0097-interleaving-string](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0097-interleaving-string) |
+| [0166-fraction-to-recurring-decimal](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0166-fraction-to-recurring-decimal) |
 | [0187-repeated-dna-sequences](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0205-isomorphic-strings) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0241-different-ways-to-add-parentheses) |
