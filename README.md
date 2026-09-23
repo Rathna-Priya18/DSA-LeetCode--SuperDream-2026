@@ -77,6 +77,7 @@
 | [0869-reordered-power-of-2](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0869-reordered-power-of-2) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1079-letter-tile-possibilities](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1079-letter-tile-possibilities) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -256,6 +257,7 @@
 | [0692-top-k-frequent-words](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0692-top-k-frequent-words) |
 | [0819-most-common-word](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0884-uncommon-words-from-two-sentences) |
+| [1079-letter-tile-possibilities](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1079-letter-tile-possibilities) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1332-remove-palindromic-subsequences](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1332-remove-palindromic-subsequences) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -268,6 +270,7 @@
 | [0257-binary-tree-paths](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0257-binary-tree-paths) |
 | [0301-remove-invalid-parentheses](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0301-remove-invalid-parentheses) |
 | [0980-unique-paths-iii](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0980-unique-paths-iii) |
+| [1079-letter-tile-possibilities](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1079-letter-tile-possibilities) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -294,6 +297,7 @@
 | [0869-reordered-power-of-2](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0869-reordered-power-of-2) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0945-minimum-increment-to-make-array-unique) |
+| [1079-letter-tile-possibilities](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1079-letter-tile-possibilities) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Bit Manipulation
 |  |
