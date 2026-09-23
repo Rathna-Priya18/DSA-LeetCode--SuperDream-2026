@@ -73,6 +73,7 @@
 | [0621-task-scheduler](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0692-top-k-frequent-words) |
 | [0819-most-common-word](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0819-most-common-word) |
+| [0869-reordered-power-of-2](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0869-reordered-power-of-2) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -111,6 +112,7 @@
 | [0506-relative-ranks](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0692-top-k-frequent-words) |
+| [0869-reordered-power-of-2](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0869-reordered-power-of-2) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0977-squares-of-a-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -150,6 +152,7 @@
 | [0365-water-and-jug-problem](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0365-water-and-jug-problem) |
 | [0396-rotate-function](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0396-rotate-function) |
 | [0836-rectangle-overlap](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0836-rectangle-overlap) |
+| [0869-reordered-power-of-2](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0869-reordered-power-of-2) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -177,6 +180,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0869-reordered-power-of-2](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0869-reordered-power-of-2) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3483-unique-3-digit-even-numbers) |
 ## Dynamic Programming
 |  |
@@ -284,6 +288,7 @@
 | [0621-task-scheduler](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0692-top-k-frequent-words) |
 | [0819-most-common-word](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0819-most-common-word) |
+| [0869-reordered-power-of-2](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0869-reordered-power-of-2) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1221-split-a-string-in-balanced-strings) |
 ## Bit Manipulation
