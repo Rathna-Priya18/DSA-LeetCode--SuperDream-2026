@@ -191,6 +191,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0091-decode-ways](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0097-interleaving-string) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0241-different-ways-to-add-parentheses) |
 | [0300-longest-increasing-subsequence](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0300-longest-increasing-subsequence) |
@@ -248,6 +249,7 @@
 ## String
 |  |
 | ------- |
+| [0091-decode-ways](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0097-interleaving-string) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0166-fraction-to-recurring-decimal) |
 | [0187-repeated-dna-sequences](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0187-repeated-dna-sequences) |
