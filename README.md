@@ -170,6 +170,7 @@
 | [0292-nim-game](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0292-nim-game) |
 | [0343-integer-break](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0343-integer-break) |
 | [0365-water-and-jug-problem](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0365-water-and-jug-problem) |
+| [0390-elimination-game](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0390-elimination-game) |
 | [0396-rotate-function](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0396-rotate-function) |
 | [0441-arranging-coins](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0441-arranging-coins) |
 | [0486-predict-the-winner](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0486-predict-the-winner) |
@@ -203,6 +204,7 @@
 | [0203-remove-linked-list-elements](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0241-different-ways-to-add-parentheses) |
+| [0390-elimination-game](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0390-elimination-game) |
 | [0486-predict-the-winner](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0486-predict-the-winner) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
