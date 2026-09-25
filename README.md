@@ -536,6 +536,7 @@
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0596-classes-with-at-least-5-students](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0596-classes-with-at-least-5-students) |
 | [0607-sales-person](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0607-sales-person) |
+| [0610-triangle-judgement](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0610-triangle-judgement) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
