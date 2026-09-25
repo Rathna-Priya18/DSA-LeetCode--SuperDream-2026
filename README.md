@@ -23,6 +23,7 @@
 | [0318-maximum-product-of-word-lengths](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0318-maximum-product-of-word-lengths) |
 | [0347-top-k-frequent-elements](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0396-rotate-function](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0396-rotate-function) |
 | [0463-island-perimeter](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0463-island-perimeter) |
 | [0486-predict-the-winner](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0486-predict-the-winner) |
@@ -117,6 +118,7 @@
 | [0218-the-skyline-problem](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0218-the-skyline-problem) |
 | [0347-top-k-frequent-elements](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0621-task-scheduler) |
@@ -148,6 +150,7 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0074-search-a-2d-matrix) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0463-island-perimeter](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0463-island-perimeter) |
 | [0835-image-overlap](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0835-image-overlap) |
 | [0980-unique-paths-iii](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0980-unique-paths-iii) |
@@ -182,6 +185,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0441-arranging-coins](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0441-arranging-coins) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -251,6 +255,7 @@
 | [0239-sliding-window-maximum](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0239-sliding-window-maximum) |
 | [0264-ugly-number-ii](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0347-top-k-frequent-elements) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0451-sort-characters-by-frequency](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0621-task-scheduler) |
