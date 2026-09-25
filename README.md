@@ -32,6 +32,7 @@
 | [0554-brick-wall](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0621-task-scheduler) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0643-maximum-average-subarray-i) |
 | [0692-top-k-frequent-words](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0692-top-k-frequent-words) |
 | [0819-most-common-word](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0819-most-common-word) |
@@ -78,6 +79,7 @@
 | [0554-brick-wall](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0554-brick-wall) |
 | [0560-subarray-sum-equals-k](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0560-subarray-sum-equals-k) |
 | [0621-task-scheduler](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0621-task-scheduler) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0692-top-k-frequent-words](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0692-top-k-frequent-words) |
 | [0819-most-common-word](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0819-most-common-word) |
 | [0869-reordered-power-of-2](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0869-reordered-power-of-2) |
@@ -122,6 +124,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0621-task-scheduler) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0692-top-k-frequent-words](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0692-top-k-frequent-words) |
 | [0869-reordered-power-of-2](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0869-reordered-power-of-2) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0945-minimum-increment-to-make-array-unique) |
@@ -228,6 +231,7 @@
 | [0187-repeated-dna-sequences](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0239-sliding-window-maximum) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0643-maximum-average-subarray-i) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -259,6 +263,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0451-sort-characters-by-frequency) |
 | [0506-relative-ranks](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0621-task-scheduler) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0692-top-k-frequent-words](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
@@ -314,6 +319,7 @@
 |  |
 | ------- |
 | [0621-task-scheduler](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0621-task-scheduler) |
+| [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
