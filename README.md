@@ -378,6 +378,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0173-binary-search-tree-iterator](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0257-binary-tree-paths) |
@@ -401,6 +402,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0116-populating-next-right-pointers-in-each-node) |
+| [0173-binary-search-tree-iterator](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0257-binary-tree-paths](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0257-binary-tree-paths) |
@@ -432,6 +434,7 @@
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Doubly-Linked List
@@ -469,6 +472,7 @@
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0143-reorder-list) |
+| [0173-binary-search-tree-iterator](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0234-palindrome-linked-list) |
 ## Brainteaser
@@ -551,6 +555,7 @@
 ## Design
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0225-implement-stack-using-queues) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Data Stream
@@ -569,4 +574,8 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0486-predict-the-winner) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
