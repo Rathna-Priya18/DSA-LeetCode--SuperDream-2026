@@ -436,6 +436,7 @@
 | [0147-insertion-sort-list](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0147-insertion-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0234-palindrome-linked-list) |
+| [0237-delete-node-in-a-linked-list](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0237-delete-node-in-a-linked-list) |
 | [0705-design-hashset](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0705-design-hashset) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 ## Divide and Conquer
