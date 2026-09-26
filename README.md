@@ -294,6 +294,7 @@
 | [0166-fraction-to-recurring-decimal](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0166-fraction-to-recurring-decimal) |
 | [0187-repeated-dna-sequences](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0205-isomorphic-strings) |
+| [0214-shortest-palindrome](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0241-different-ways-to-add-parentheses) |
 | [0257-binary-tree-paths](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0257-binary-tree-paths) |
 | [0301-remove-invalid-parentheses](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0301-remove-invalid-parentheses) |
@@ -460,14 +461,17 @@
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0187-repeated-dna-sequences) |
+| [0214-shortest-palindrome](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0214-shortest-palindrome) |
 ## Hash Function
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0187-repeated-dna-sequences) |
+| [0214-shortest-palindrome](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0214-shortest-palindrome) |
 ## Z Algorithm
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0187-repeated-dna-sequences) |
+| [0214-shortest-palindrome](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0214-shortest-palindrome) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
@@ -591,4 +595,16 @@
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0173-binary-search-tree-iterator) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0214-shortest-palindrome) |
+## Manacher
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0214-shortest-palindrome) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
