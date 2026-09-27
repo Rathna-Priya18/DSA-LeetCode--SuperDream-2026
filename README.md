@@ -269,6 +269,7 @@
 | [0239-sliding-window-maximum](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0239-sliding-window-maximum) |
 | [0622-design-circular-queue](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0622-design-circular-queue) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [0933-number-of-recent-calls](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0933-number-of-recent-calls) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -595,10 +596,12 @@
 | [0622-design-circular-queue](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0622-design-circular-queue) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0705-design-hashset](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0705-design-hashset) |
+| [0933-number-of-recent-calls](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0933-number-of-recent-calls](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0933-number-of-recent-calls) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
