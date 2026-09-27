@@ -565,6 +565,7 @@
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0176-second-highest-salary) |
+| [0177-nth-highest-salary](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0177-nth-highest-salary) |
 | [0185-department-top-three-salaries](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0185-department-top-three-salaries) |
 | [0262-trips-and-users](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0262-trips-and-users) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0570-managers-with-at-least-5-direct-reports) |
