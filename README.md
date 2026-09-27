@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0001-two-sum) |
 | [0057-insert-interval](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0057-insert-interval) |
+| [0068-text-justification](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -155,6 +156,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0068-text-justification) |
 | [1920-build-array-from-permutation](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1920-build-array-from-permutation) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3498-reverse-degree-of-a-string](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3498-reverse-degree-of-a-string) |
@@ -297,6 +299,7 @@
 ## String
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0068-text-justification) |
 | [0091-decode-ways](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0097-interleaving-string) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0166-fraction-to-recurring-decimal) |
