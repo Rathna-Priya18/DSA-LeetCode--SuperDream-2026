@@ -312,6 +312,7 @@
 | [0819-most-common-word](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0819-most-common-word) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1079-letter-tile-possibilities](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1079-letter-tile-possibilities) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1332-remove-palindromic-subsequences](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1332-remove-palindromic-subsequences) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
@@ -388,6 +389,7 @@
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0241-different-ways-to-add-parentheses) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Tree
 |  |
 | ------- |
@@ -503,6 +505,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0234-palindrome-linked-list) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 ## Brainteaser
 |  |
 | ------- |
