@@ -39,6 +39,7 @@
 | [0643-maximum-average-subarray-i](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0643-maximum-average-subarray-i) |
 | [0692-top-k-frequent-words](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0692-top-k-frequent-words) |
 | [0705-design-hashset](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0705-design-hashset) |
+| [0778-swim-in-rising-water](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0778-swim-in-rising-water) |
 | [0811-subdomain-visit-count](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0811-subdomain-visit-count) |
 | [0819-most-common-word](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0819-most-common-word) |
 | [0835-image-overlap](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0835-image-overlap) |
@@ -169,6 +170,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0074-search-a-2d-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0463-island-perimeter](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0463-island-perimeter) |
+| [0778-swim-in-rising-water](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0778-swim-in-rising-water) |
 | [0835-image-overlap](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0835-image-overlap) |
 | [0980-unique-paths-iii](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0980-unique-paths-iii) |
 | [1672-richest-customer-wealth](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1672-richest-customer-wealth) |
@@ -207,6 +209,7 @@
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0441-arranging-coins](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0441-arranging-coins) |
+| [0778-swim-in-rising-water](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0778-swim-in-rising-water) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -294,6 +297,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0692-top-k-frequent-words](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0692-top-k-frequent-words) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0778-swim-in-rising-water](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0778-swim-in-rising-water) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -351,6 +355,7 @@
 | [0301-remove-invalid-parentheses](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0301-remove-invalid-parentheses) |
 | [0365-water-and-jug-problem](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0365-water-and-jug-problem) |
 | [0463-island-perimeter](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0463-island-perimeter) |
+| [0778-swim-in-rising-water](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0778-swim-in-rising-water) |
 ## Greedy
 |  |
 | ------- |
@@ -430,6 +435,7 @@
 | [0257-binary-tree-paths](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0257-binary-tree-paths) |
 | [0365-water-and-jug-problem](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0365-water-and-jug-problem) |
 | [0463-island-perimeter](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0463-island-perimeter) |
+| [0778-swim-in-rising-water](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0778-swim-in-rising-water) |
 ## Binary Tree
 |  |
 | ------- |
@@ -534,6 +540,7 @@
 | [0292-nim-game](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0292-nim-game) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0486-predict-the-winner](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0486-predict-the-winner) |
+| [0778-swim-in-rising-water](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0778-swim-in-rising-water) |
 ## Game Theory
 |  |
 | ------- |
@@ -651,4 +658,12 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0214-shortest-palindrome) |
+## Union-Find
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0778-swim-in-rising-water) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0778-swim-in-rising-water) |
 <!---LeetCode Topics End-->
