@@ -184,6 +184,7 @@
 | [0292-nim-game](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0292-nim-game) |
 | [0343-integer-break](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0343-integer-break) |
 | [0365-water-and-jug-problem](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0365-water-and-jug-problem) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0390-elimination-game](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0390-elimination-game) |
 | [0396-rotate-function](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0396-rotate-function) |
 | [0441-arranging-coins](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0441-arranging-coins) |
@@ -236,6 +237,7 @@
 | [0264-ugly-number-ii](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0264-ugly-number-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0300-longest-increasing-subsequence) |
 | [0343-integer-break](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0343-integer-break) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0396-rotate-function](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0396-rotate-function) |
 | [0413-arithmetic-slices](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0413-arithmetic-slices) |
 | [0486-predict-the-winner](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0486-predict-the-winner) |
@@ -530,11 +532,13 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0292-nim-game) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0486-predict-the-winner](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0486-predict-the-winner) |
 ## Game Theory
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0292-nim-game) |
+| [0375-guess-number-higher-or-lower-ii](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0486-predict-the-winner](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0486-predict-the-winner) |
 ## Nim Game
 |  |
