@@ -62,6 +62,7 @@
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1920-build-array-from-permutation](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1920-build-array-from-permutation) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2164-sort-even-and-odd-indices-independently) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -175,6 +176,7 @@
 | [0980-unique-paths-iii](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0980-unique-paths-iii) |
 | [1672-richest-customer-wealth](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1672-richest-customer-wealth) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1738-find-kth-largest-xor-coordinate-value) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Math
 |  |
 | ------- |
@@ -246,6 +248,7 @@
 | [0486-predict-the-winner](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0486-predict-the-winner) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3524-find-x-value-of-array-i](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3524-find-x-value-of-array-i) |
@@ -409,6 +412,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0241-different-ways-to-add-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Tree
 |  |
 | ------- |
