@@ -68,6 +68,7 @@
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3483-unique-3-digit-even-numbers) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -107,6 +108,7 @@
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3483-unique-3-digit-even-numbers) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -165,6 +167,7 @@
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3498-reverse-degree-of-a-string](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3498-reverse-degree-of-a-string) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -305,6 +308,7 @@
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -474,6 +478,7 @@
 | [0622-design-circular-queue](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0622-design-circular-queue) |
 | [0705-design-hashset](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0705-design-hashset) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -496,11 +501,13 @@
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Ordered Set
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0218-the-skyline-problem) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
+| [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Rolling Hash
 |  |
 | ------- |
