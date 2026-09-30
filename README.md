@@ -195,6 +195,7 @@
 | [0365-water-and-jug-problem](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0365-water-and-jug-problem) |
 | [0367-valid-perfect-square](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0367-valid-perfect-square) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0375-guess-number-higher-or-lower-ii) |
+| [0382-linked-list-random-node](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0382-linked-list-random-node) |
 | [0390-elimination-game](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0390-elimination-game) |
 | [0396-rotate-function](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0396-rotate-function) |
 | [0441-arranging-coins](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0441-arranging-coins) |
@@ -497,6 +498,7 @@
 | [0234-palindrome-linked-list](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0328-odd-even-linked-list) |
+| [0382-linked-list-random-node](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0382-linked-list-random-node) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0622-design-circular-queue](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0622-design-circular-queue) |
 | [0705-design-hashset](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0705-design-hashset) |
@@ -720,4 +722,12 @@
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0279-perfect-squares) |
+## Reservoir Sampling
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0382-linked-list-random-node) |
+## Randomized
+|  |
+| ------- |
+| [0382-linked-list-random-node](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0382-linked-list-random-node) |
 <!---LeetCode Topics End-->
