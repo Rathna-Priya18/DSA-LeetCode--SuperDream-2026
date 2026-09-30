@@ -185,6 +185,7 @@
 | ------- |
 | [0166-fraction-to-recurring-decimal](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0166-fraction-to-recurring-decimal) |
 | [0189-rotate-array](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0189-rotate-array) |
+| [0223-rectangle-area](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0223-rectangle-area) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0241-different-ways-to-add-parentheses) |
 | [0263-ugly-number](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0264-ugly-number-ii) |
@@ -408,6 +409,7 @@
 ## Geometry
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0223-rectangle-area) |
 | [0836-rectangle-overlap](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0836-rectangle-overlap) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Memoization
