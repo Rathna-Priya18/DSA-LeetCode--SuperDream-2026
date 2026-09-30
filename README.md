@@ -189,6 +189,7 @@
 | [0241-different-ways-to-add-parentheses](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0241-different-ways-to-add-parentheses) |
 | [0263-ugly-number](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0263-ugly-number) |
 | [0264-ugly-number-ii](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0279-perfect-squares) |
 | [0292-nim-game](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0292-nim-game) |
 | [0343-integer-break](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0343-integer-break) |
 | [0365-water-and-jug-problem](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0365-water-and-jug-problem) |
@@ -245,6 +246,7 @@
 | [0097-interleaving-string](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0097-interleaving-string) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0264-ugly-number-ii) |
+| [0279-perfect-squares](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0300-longest-increasing-subsequence) |
 | [0343-integer-break](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0343-integer-break) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0375-guess-number-higher-or-lower-ii) |
@@ -363,6 +365,7 @@
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0199-binary-tree-right-side-view) |
+| [0279-perfect-squares](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0279-perfect-squares) |
 | [0301-remove-invalid-parentheses](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0301-remove-invalid-parentheses) |
 | [0365-water-and-jug-problem](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0365-water-and-jug-problem) |
 | [0463-island-perimeter](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0463-island-perimeter) |
@@ -707,4 +710,12 @@
 |  |
 | ------- |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0279-perfect-squares) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
