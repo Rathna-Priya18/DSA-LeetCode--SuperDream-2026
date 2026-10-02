@@ -236,6 +236,7 @@
 | [0234-palindrome-linked-list](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0241-different-ways-to-add-parentheses) |
 | [0390-elimination-game](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0390-elimination-game) |
+| [0394-decode-string](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0394-decode-string) |
 | [0486-predict-the-winner](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0486-predict-the-winner) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
@@ -342,6 +343,7 @@
 | [0257-binary-tree-paths](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0257-binary-tree-paths) |
 | [0301-remove-invalid-parentheses](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0301-remove-invalid-parentheses) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0318-maximum-product-of-word-lengths) |
+| [0394-decode-string](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0394-decode-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0451-sort-characters-by-frequency) |
 | [0692-top-k-frequent-words](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0692-top-k-frequent-words) |
 | [0811-subdomain-visit-count](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0811-subdomain-visit-count) |
@@ -591,6 +593,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0394-decode-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
