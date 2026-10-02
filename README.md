@@ -247,6 +247,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0022-generate-parentheses) |
 | [0091-decode-ways](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0097-interleaving-string) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0241-different-ways-to-add-parentheses) |
@@ -328,6 +329,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0022-generate-parentheses) |
 | [0068-text-justification](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0068-text-justification) |
 | [0091-decode-ways](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0097-interleaving-string) |
@@ -358,6 +360,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0022-generate-parentheses) |
 | [0090-subsets-ii](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0257-binary-tree-paths) |
@@ -431,6 +434,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0022-generate-parentheses) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0241-different-ways-to-add-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
