@@ -208,6 +208,7 @@
 | [0836-rectangle-overlap](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0836-rectangle-overlap) |
 | [0869-reordered-power-of-2](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0869-reordered-power-of-2) |
 | [1025-divisor-game](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1025-divisor-game) |
+| [1227-airplane-seat-assignment-probability](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1227-airplane-seat-assignment-probability) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -268,6 +269,7 @@
 | [0413-arithmetic-slices](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0413-arithmetic-slices) |
 | [0486-predict-the-winner](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0486-predict-the-winner) |
 | [1025-divisor-game](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1025-divisor-game) |
+| [1227-airplane-seat-assignment-probability](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1227-airplane-seat-assignment-probability) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -612,6 +614,7 @@
 | ------- |
 | [0292-nim-game](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1025-divisor-game) |
+| [1227-airplane-seat-assignment-probability](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1227-airplane-seat-assignment-probability) |
 ## Minimax
 |  |
 | ------- |
@@ -783,4 +786,8 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0164-maximum-gap) |
+## Probability and Statistics
+|  |
+| ------- |
+| [1227-airplane-seat-assignment-probability](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1227-airplane-seat-assignment-probability) |
 <!---LeetCode Topics End-->
