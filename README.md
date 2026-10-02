@@ -207,6 +207,7 @@
 | [0486-predict-the-winner](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0486-predict-the-winner) |
 | [0836-rectangle-overlap](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0836-rectangle-overlap) |
 | [0869-reordered-power-of-2](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0869-reordered-power-of-2) |
+| [1025-divisor-game](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1025-divisor-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -266,6 +267,7 @@
 | [0396-rotate-function](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0396-rotate-function) |
 | [0413-arithmetic-slices](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0413-arithmetic-slices) |
 | [0486-predict-the-winner](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0486-predict-the-winner) |
+| [1025-divisor-game](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1025-divisor-game) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -609,6 +611,7 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1025-divisor-game) |
 ## Minimax
 |  |
 | ------- |
@@ -622,6 +625,7 @@
 | [0292-nim-game](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0292-nim-game) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0486-predict-the-winner](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0486-predict-the-winner) |
+| [1025-divisor-game](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1025-divisor-game) |
 ## Nim Game
 |  |
 | ------- |
@@ -630,6 +634,7 @@
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0292-nim-game) |
+| [1025-divisor-game](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1025-divisor-game) |
 ## Bézout's Lemma
 |  |
 | ------- |
