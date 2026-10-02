@@ -128,6 +128,7 @@
 | [1089-duplicate-zeros](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1089-duplicate-zeros) |
 | [1332-remove-palindromic-subsequences](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1332-remove-palindromic-subsequences) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [2396-strictly-palindromic-number](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2396-strictly-palindromic-number) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Sorting
 |  |
@@ -213,6 +214,7 @@
 | [1401-circle-and-rectangle-overlapping](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2396-strictly-palindromic-number](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2396-strictly-palindromic-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3524-find-x-value-of-array-i](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3525-find-x-value-of-array-ii) |
@@ -615,6 +617,7 @@
 | [0292-nim-game](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0292-nim-game) |
 | [1025-divisor-game](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1025-divisor-game) |
 | [1227-airplane-seat-assignment-probability](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1227-airplane-seat-assignment-probability) |
+| [2396-strictly-palindromic-number](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2396-strictly-palindromic-number) |
 ## Minimax
 |  |
 | ------- |
