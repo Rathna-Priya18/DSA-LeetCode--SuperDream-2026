@@ -75,6 +75,7 @@
 | [3524-find-x-value-of-array-i](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3674-minimum-operations-to-equalize-array](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3674-minimum-operations-to-equalize-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -440,6 +441,7 @@
 | [0980-unique-paths-iii](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0980-unique-paths-iii) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [3674-minimum-operations-to-equalize-array](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3674-minimum-operations-to-equalize-array) |
 ## Hamiltonian Path
 |  |
 | ------- |
@@ -631,6 +633,7 @@
 | [1227-airplane-seat-assignment-probability](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1227-airplane-seat-assignment-probability) |
 | [2396-strictly-palindromic-number](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2396-strictly-palindromic-number) |
 | [3227-vowels-game-in-a-string](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3227-vowels-game-in-a-string) |
+| [3674-minimum-operations-to-equalize-array](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3674-minimum-operations-to-equalize-array) |
 ## Minimax
 |  |
 | ------- |
