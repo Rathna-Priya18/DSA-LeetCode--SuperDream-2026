@@ -21,6 +21,7 @@
 | [0219-contains-duplicate-ii](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0300-longest-increasing-subsequence) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0318-maximum-product-of-word-lengths) |
 | [0347-top-k-frequent-elements](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0347-top-k-frequent-elements) |
@@ -132,6 +133,7 @@
 | [0189-rotate-array](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0977-squares-of-a-sorted-array) |
 | [1089-duplicate-zeros](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1089-duplicate-zeros) |
@@ -235,6 +237,7 @@
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0367-valid-perfect-square) |
@@ -450,6 +453,7 @@
 | ------- |
 | [0090-subsets-ii](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0090-subsets-ii) |
 | [0187-repeated-dna-sequences](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0187-repeated-dna-sequences) |
+| [0287-find-the-duplicate-number](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0287-find-the-duplicate-number) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0318-maximum-product-of-word-lengths) |
 | [0980-unique-paths-iii](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0980-unique-paths-iii) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
@@ -736,6 +740,7 @@
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0142-linked-list-cycle-ii) |
+| [0287-find-the-duplicate-number](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0287-find-the-duplicate-number) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -842,6 +847,7 @@
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0164-maximum-gap) |
+| [0287-find-the-duplicate-number](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0287-find-the-duplicate-number) |
 ## Probability and Statistics
 |  |
 | ------- |
