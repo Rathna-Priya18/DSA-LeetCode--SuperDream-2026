@@ -23,6 +23,7 @@
 | [0283-move-zeroes](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0300-longest-increasing-subsequence) |
+| [0307-range-sum-query-mutable](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0307-range-sum-query-mutable) |
 | [0318-maximum-product-of-word-lengths](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0318-maximum-product-of-word-lengths) |
 | [0347-top-k-frequent-elements](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -593,6 +594,7 @@
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0215-kth-largest-element-in-an-array) |
 | [0218-the-skyline-problem](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0218-the-skyline-problem) |
+| [0307-range-sum-query-mutable](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0307-range-sum-query-mutable) |
 | [0347-top-k-frequent-elements](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0347-top-k-frequent-elements) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
@@ -755,11 +757,13 @@
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0218-the-skyline-problem) |
+| [0307-range-sum-query-mutable](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0307-range-sum-query-mutable) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Segment Tree
 |  |
 | ------- |
 | [0218-the-skyline-problem](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0218-the-skyline-problem) |
+| [0307-range-sum-query-mutable](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0307-range-sum-query-mutable) |
 | [3525-find-x-value-of-array-ii](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3525-find-x-value-of-array-ii) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Sweep Line
@@ -772,6 +776,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0232-implement-queue-using-stacks) |
+| [0307-range-sum-query-mutable](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0307-range-sum-query-mutable) |
 | [0355-design-twitter](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0355-design-twitter) |
 | [0622-design-circular-queue](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0622-design-circular-queue) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -915,4 +920,8 @@
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Sqrt Decomposition
+|  |
+| ------- |
+| [0307-range-sum-query-mutable](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0307-range-sum-query-mutable) |
 <!---LeetCode Topics End-->
