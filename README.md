@@ -380,6 +380,7 @@
 | [0692-top-k-frequent-words](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0692-top-k-frequent-words) |
 | [0811-subdomain-visit-count](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0811-subdomain-visit-count) |
 | [0819-most-common-word](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0819-most-common-word) |
+| [0856-score-of-parentheses](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0856-score-of-parentheses) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1079-letter-tile-possibilities](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1079-letter-tile-possibilities) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -482,6 +483,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0032-longest-valid-parentheses) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0241-different-ways-to-add-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -653,6 +655,7 @@
 | [0234-palindrome-linked-list](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0394-decode-string) |
 | [0678-valid-parenthesis-string](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0856-score-of-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
