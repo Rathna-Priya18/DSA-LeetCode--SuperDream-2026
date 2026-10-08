@@ -35,6 +35,7 @@
 | [0463-island-perimeter](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0463-island-perimeter) |
 | [0486-predict-the-winner](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0486-predict-the-winner) |
 | [0495-teemo-attacking](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0495-teemo-attacking) |
+| [0498-diagonal-traverse](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0498-diagonal-traverse) |
 | [0506-relative-ranks](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0506-relative-ranks) |
 | [0525-contiguous-array](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0525-contiguous-array) |
 | [0554-brick-wall](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0554-brick-wall) |
@@ -187,6 +188,7 @@
 | [0068-text-justification](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0068-text-justification) |
 | [0412-fizz-buzz](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0412-fizz-buzz) |
 | [0495-teemo-attacking](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0495-teemo-attacking) |
+| [0498-diagonal-traverse](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0498-diagonal-traverse) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1920-build-array-from-permutation](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1920-build-array-from-permutation) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -200,6 +202,7 @@
 | [0130-surrounded-regions](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0130-surrounded-regions) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0463-island-perimeter](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0463-island-perimeter) |
+| [0498-diagonal-traverse](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0498-diagonal-traverse) |
 | [0778-swim-in-rising-water](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0778-swim-in-rising-water) |
 | [0835-image-overlap](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0835-image-overlap) |
 | [0980-unique-paths-iii](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0980-unique-paths-iii) |
