@@ -87,6 +87,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0001-two-sum) |
+| [0076-minimum-window-substring](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0142-linked-list-cycle-ii](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0142-linked-list-cycle-ii) |
@@ -303,6 +304,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0076-minimum-window-substring) |
 | [0187-repeated-dna-sequences](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0239-sliding-window-maximum) |
@@ -368,6 +370,7 @@
 | [0022-generate-parentheses](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0032-longest-valid-parentheses) |
 | [0068-text-justification](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0068-text-justification) |
+| [0076-minimum-window-substring](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0076-minimum-window-substring) |
 | [0091-decode-ways](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0091-decode-ways) |
 | [0097-interleaving-string](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0097-interleaving-string) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0166-fraction-to-recurring-decimal) |
