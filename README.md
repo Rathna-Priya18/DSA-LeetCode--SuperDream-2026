@@ -189,6 +189,7 @@
 | [0412-fizz-buzz](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0412-fizz-buzz) |
 | [0495-teemo-attacking](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0495-teemo-attacking) |
 | [0498-diagonal-traverse](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0498-diagonal-traverse) |
+| [0537-complex-number-multiplication](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0537-complex-number-multiplication) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1920-build-array-from-permutation](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1920-build-array-from-permutation) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -230,6 +231,7 @@
 | [0412-fizz-buzz](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0441-arranging-coins) |
 | [0486-predict-the-winner](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0486-predict-the-winner) |
+| [0537-complex-number-multiplication](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0537-complex-number-multiplication) |
 | [0836-rectangle-overlap](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0836-rectangle-overlap) |
 | [0869-reordered-power-of-2](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0869-reordered-power-of-2) |
 | [1025-divisor-game](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1025-divisor-game) |
@@ -392,6 +394,7 @@
 | [0399-evaluate-division](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0399-evaluate-division) |
 | [0412-fizz-buzz](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0451-sort-characters-by-frequency) |
+| [0537-complex-number-multiplication](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0537-complex-number-multiplication) |
 | [0678-valid-parenthesis-string](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0692-top-k-frequent-words) |
 | [0811-subdomain-visit-count](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0811-subdomain-visit-count) |
