@@ -1,56 +1,66 @@
 class Solution {
-    private Set<String> resultSet;
-    private int longestStringLength;
+    Set<String> result = new HashSet<>();
 
     public List<String> removeInvalidParentheses(String s) {
-        resultSet = new HashSet<>();
-        longestStringLength = 0;
-        dfs(s, 0, new StringBuilder(), 0, 0);
-        return new ArrayList<>(resultSet);
+        int leftRemove = 0;
+        int rightRemove = 0;
+
+        for (char c : s.toCharArray()) {
+            if (c == '(') {
+                leftRemove++;
+            } else if (c == ')') {
+                if (leftRemove > 0) {
+                    leftRemove--;
+                } else {
+                    rightRemove++;
+                }
+            }
+        }
+
+        dfs(s, 0, leftRemove, rightRemove, 0, new StringBuilder());
+
+        return new ArrayList<>(result);
     }
 
-    private void dfs(String s, int currentIndex, StringBuilder currentResult, int openCount, int closeCount) {
-        if (currentIndex == s.length()) {
-            if (openCount == closeCount) {
-                if (currentResult.length() > longestStringLength) {// meaning the new VALID answer is found.
-                    //longer the length of valid string== minimum removal.
-                    longestStringLength = currentResult.length();
-                    resultSet.clear();
-                    resultSet.add(currentResult.toString());
-                } else if (currentResult.length() == longestStringLength) {
-                    resultSet.add(currentResult.toString());
-                }
+    private void dfs(String s, int index, int leftRemove,
+                     int rightRemove, int balance, StringBuilder path) {
+
+        if (balance < 0) return;
+
+        if (index == s.length()) {
+            if (leftRemove == 0 && rightRemove == 0 && balance == 0) {
+                result.add(path.toString());
             }
             return;
         }
 
-        char currentChar = s.charAt(currentIndex);
+        char c = s.charAt(index);
 
-        if (currentChar == '(') {
-            // Include the '('
-            currentResult.append(currentChar);
-            dfs(s, currentIndex + 1, currentResult, openCount + 1, closeCount);
-            currentResult.deleteCharAt(currentResult.length() - 1);
+        path.append(c);
 
-            // Exclude the '('
-            dfs(s, currentIndex + 1, currentResult, openCount, closeCount);
-
-        } else if (currentChar == ')') {
-            // Include the ')' only if it doesn't lead to more close than open
-            if (openCount > closeCount) {
-                currentResult.append(currentChar);
-                dfs(s, currentIndex + 1, currentResult, openCount, closeCount + 1);
-                currentResult.deleteCharAt(currentResult.length() - 1);
+        if (c == '(') {
+            dfs(s, index + 1, leftRemove, rightRemove,
+                balance + 1, path);
+        } else if (c == ')') {
+            if (balance > 0) {
+                dfs(s, index + 1, leftRemove, rightRemove,
+                    balance - 1, path);
             }
-
-            // Exclude the ')'
-            dfs(s, currentIndex + 1, currentResult, openCount, closeCount);
-
         } else {
-            // Include other characters
-            currentResult.append(currentChar);
-            dfs(s, currentIndex + 1, currentResult, openCount, closeCount);
-            currentResult.deleteCharAt(currentResult.length() - 1);
+            dfs(s, index + 1, leftRemove, rightRemove,
+                balance, path);
+        }
+
+        path.deleteCharAt(path.length() - 1);
+
+        if (c == '(' && leftRemove > 0) {
+            dfs(s, index + 1, leftRemove - 1, rightRemove,
+                balance, path);
+        }
+
+        if (c == ')' && rightRemove > 0) {
+            dfs(s, index + 1, leftRemove, rightRemove - 1,
+                balance, path);
         }
     }
 }
