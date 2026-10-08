@@ -184,6 +184,7 @@
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0068-text-justification) |
+| [0412-fizz-buzz](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0412-fizz-buzz) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1920-build-array-from-permutation](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1920-build-array-from-permutation) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -221,6 +222,7 @@
 | [0382-linked-list-random-node](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0382-linked-list-random-node) |
 | [0390-elimination-game](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0390-elimination-game) |
 | [0396-rotate-function](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0396-rotate-function) |
+| [0412-fizz-buzz](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0441-arranging-coins) |
 | [0486-predict-the-winner](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0486-predict-the-winner) |
 | [0836-rectangle-overlap](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0836-rectangle-overlap) |
@@ -383,6 +385,7 @@
 | [0318-maximum-product-of-word-lengths](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0318-maximum-product-of-word-lengths) |
 | [0394-decode-string](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0399-evaluate-division) |
+| [0412-fizz-buzz](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0451-sort-characters-by-frequency) |
 | [0678-valid-parenthesis-string](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0678-valid-parenthesis-string) |
 | [0692-top-k-frequent-words](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0692-top-k-frequent-words) |
