@@ -67,6 +67,7 @@
 | [1652-defuse-the-bomb](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1652-defuse-the-bomb) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1672-richest-customer-wealth](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1672-richest-customer-wealth) |
+| [1686-stone-game-vi](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1686-stone-game-vi) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -170,6 +171,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0977-squares-of-a-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1686-stone-game-vi](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1686-stone-game-vi) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1948-delete-duplicate-folders-in-system](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1948-delete-duplicate-folders-in-system) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2164-sort-even-and-odd-indices-independently) |
@@ -241,6 +243,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+| [1686-stone-game-vi](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1686-stone-game-vi) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2396-strictly-palindromic-number](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2396-strictly-palindromic-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
@@ -366,6 +369,7 @@
 | [0703-kth-largest-element-in-a-stream](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0778-swim-in-rising-water](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0778-swim-in-rising-water) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [1686-stone-game-vi](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1686-stone-game-vi) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -458,6 +462,7 @@
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1686-stone-game-vi](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1686-stone-game-vi) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Counting
@@ -720,6 +725,7 @@
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0486-predict-the-winner](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0486-predict-the-winner) |
 | [0778-swim-in-rising-water](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0778-swim-in-rising-water) |
+| [1686-stone-game-vi](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1686-stone-game-vi) |
 ## Game Theory
 |  |
 | ------- |
@@ -727,6 +733,7 @@
 | [0375-guess-number-higher-or-lower-ii](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0486-predict-the-winner](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0486-predict-the-winner) |
 | [1025-divisor-game](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1025-divisor-game) |
+| [1686-stone-game-vi](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1686-stone-game-vi) |
 | [3227-vowels-game-in-a-string](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3227-vowels-game-in-a-string) |
 ## Nim Game
 |  |
@@ -839,6 +846,7 @@
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0486-predict-the-winner) |
+| [1686-stone-game-vi](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1686-stone-game-vi) |
 ## Iterator
 |  |
 | ------- |
