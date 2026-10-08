@@ -243,6 +243,7 @@
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2396-strictly-palindromic-number](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2396-strictly-palindromic-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [2928-distribute-candies-among-children-i](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2928-distribute-candies-among-children-i) |
 | [3227-vowels-game-in-a-string](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3227-vowels-game-in-a-string) |
 | [3524-find-x-value-of-array-i](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3525-find-x-value-of-array-ii) |
@@ -281,6 +282,7 @@
 | ------- |
 | [0869-reordered-power-of-2](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0869-reordered-power-of-2) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2928-distribute-candies-among-children-i](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2928-distribute-candies-among-children-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3483-unique-3-digit-even-numbers) |
 ## Dynamic Programming
 |  |
@@ -678,6 +680,7 @@
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2928-distribute-candies-among-children-i](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2928-distribute-candies-among-children-i) |
 ## Stack
 |  |
 | ------- |
