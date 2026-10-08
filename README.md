@@ -34,6 +34,7 @@
 | [0413-arithmetic-slices](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0413-arithmetic-slices) |
 | [0463-island-perimeter](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0463-island-perimeter) |
 | [0486-predict-the-winner](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0486-predict-the-winner) |
+| [0495-teemo-attacking](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0495-teemo-attacking) |
 | [0506-relative-ranks](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0506-relative-ranks) |
 | [0525-contiguous-array](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0525-contiguous-array) |
 | [0554-brick-wall](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0554-brick-wall) |
@@ -185,6 +186,7 @@
 | ------- |
 | [0068-text-justification](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0068-text-justification) |
 | [0412-fizz-buzz](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0412-fizz-buzz) |
+| [0495-teemo-attacking](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0495-teemo-attacking) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1920-build-array-from-permutation](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1920-build-array-from-permutation) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
