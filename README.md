@@ -75,6 +75,7 @@
 | [1948-delete-duplicate-folders-in-system](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1948-delete-duplicate-folders-in-system) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2760-longest-even-odd-subarray-with-threshold) |
@@ -176,6 +177,7 @@
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1948-delete-duplicate-folders-in-system](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1948-delete-duplicate-folders-in-system) |
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2164-sort-even-and-odd-indices-independently) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Quicksort
@@ -269,6 +271,7 @@
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Recursion
 |  |
@@ -373,6 +376,7 @@
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1686-stone-game-vi](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1686-stone-game-vi) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1738-find-kth-largest-xor-coordinate-value) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -467,6 +471,7 @@
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1686-stone-game-vi](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1686-stone-game-vi) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Counting
