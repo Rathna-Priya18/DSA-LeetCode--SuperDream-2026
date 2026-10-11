@@ -60,6 +60,7 @@
 | [1089-duplicate-zeros](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1089-duplicate-zeros) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1409-queries-on-a-permutation-with-key](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1409-queries-on-a-permutation-with-key) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1470-shuffle-the-array) |
 | [1472-design-browser-history](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1472-design-browser-history) |
@@ -198,6 +199,7 @@
 | [0495-teemo-attacking](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0495-teemo-attacking) |
 | [0498-diagonal-traverse](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0498-diagonal-traverse) |
 | [0537-complex-number-multiplication](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0537-complex-number-multiplication) |
+| [1409-queries-on-a-permutation-with-key](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1409-queries-on-a-permutation-with-key) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1920-build-array-from-permutation](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1920-build-array-from-permutation) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
@@ -815,6 +817,7 @@
 | [0218-the-skyline-problem](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0218-the-skyline-problem) |
 | [0307-range-sum-query-mutable](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0307-range-sum-query-mutable) |
 | [0406-queue-reconstruction-by-height](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0406-queue-reconstruction-by-height) |
+| [1409-queries-on-a-permutation-with-key](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1409-queries-on-a-permutation-with-key) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Segment Tree
 |  |
@@ -986,4 +989,5 @@
 |  |
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0307-range-sum-query-mutable) |
+| [1409-queries-on-a-permutation-with-key](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1409-queries-on-a-permutation-with-key) |
 <!---LeetCode Topics End-->
