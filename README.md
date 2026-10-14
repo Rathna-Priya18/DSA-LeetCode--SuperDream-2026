@@ -472,6 +472,7 @@
 | [0463-island-perimeter](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0463-island-perimeter) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0778-swim-in-rising-water](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0778-swim-in-rising-water) |
+| [0802-find-eventual-safe-states](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0802-find-eventual-safe-states) |
 ## Greedy
 |  |
 | ------- |
@@ -596,6 +597,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0572-subtree-of-another-tree](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0572-subtree-of-another-tree) |
 | [0778-swim-in-rising-water](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0778-swim-in-rising-water) |
+| [0802-find-eventual-safe-states](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0802-find-eventual-safe-states) |
 | [1948-delete-duplicate-folders-in-system](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1948-delete-duplicate-folders-in-system) |
 ## Binary Tree
 |  |
@@ -951,6 +953,7 @@
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0399-evaluate-division) |
+| [0802-find-eventual-safe-states](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0802-find-eventual-safe-states) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1584-min-cost-to-connect-all-points) |
 ## Minimum Spanning Tree
@@ -1005,4 +1008,16 @@
 | ------- |
 | [0307-range-sum-query-mutable](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0307-range-sum-query-mutable) |
 | [1409-queries-on-a-permutation-with-key](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1409-queries-on-a-permutation-with-key) |
+## Topological Sort
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0802-find-eventual-safe-states) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
