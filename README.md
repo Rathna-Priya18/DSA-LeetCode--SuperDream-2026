@@ -71,6 +71,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1672-richest-customer-wealth](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1672-richest-customer-wealth) |
 | [1686-stone-game-vi](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1686-stone-game-vi) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -207,6 +208,7 @@
 | [1409-queries-on-a-permutation-with-key](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1409-queries-on-a-permutation-with-key) |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1920-build-array-from-permutation](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1920-build-array-from-permutation) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3498-reverse-degree-of-a-string](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3498-reverse-degree-of-a-string) |
@@ -370,6 +372,7 @@
 | [0622-design-circular-queue](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0622-design-circular-queue) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0933-number-of-recent-calls](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0933-number-of-recent-calls) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -742,6 +745,7 @@
 | [1472-design-browser-history](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1472-design-browser-history) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Brainteaser
 |  |
 | ------- |
