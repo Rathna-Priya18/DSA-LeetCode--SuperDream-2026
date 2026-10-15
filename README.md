@@ -86,6 +86,7 @@
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3483-unique-3-digit-even-numbers) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -136,6 +137,7 @@
 | [1948-delete-duplicate-folders-in-system](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1948-delete-duplicate-folders-in-system) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3483-unique-3-digit-even-numbers) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -845,6 +847,7 @@
 | [0307-range-sum-query-mutable](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0307-range-sum-query-mutable) |
 | [0406-queue-reconstruction-by-height](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0406-queue-reconstruction-by-height) |
 | [1409-queries-on-a-permutation-with-key](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1409-queries-on-a-permutation-with-key) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Segment Tree
 |  |
@@ -852,6 +855,7 @@
 | [0218-the-skyline-problem](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0218-the-skyline-problem) |
 | [0307-range-sum-query-mutable](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0307-range-sum-query-mutable) |
 | [0406-queue-reconstruction-by-height](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0406-queue-reconstruction-by-height) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3525-find-x-value-of-array-ii) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Sweep Line
