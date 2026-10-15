@@ -583,6 +583,7 @@
 | [0501-find-mode-in-binary-search-tree](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0572-subtree-of-another-tree](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0572-subtree-of-another-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0669-trim-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Depth-First Search
 |  |
@@ -607,6 +608,7 @@
 | [0501-find-mode-in-binary-search-tree](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0572-subtree-of-another-tree](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0572-subtree-of-another-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0669-trim-a-binary-search-tree) |
 | [0778-swim-in-rising-water](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0778-swim-in-rising-water) |
 | [0802-find-eventual-safe-states](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0802-find-eventual-safe-states) |
 | [1948-delete-duplicate-folders-in-system](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1948-delete-duplicate-folders-in-system) |
@@ -633,6 +635,7 @@
 | [0501-find-mode-in-binary-search-tree](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0572-subtree-of-another-tree](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0572-subtree-of-another-tree) |
+| [0669-trim-a-binary-search-tree](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0669-trim-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Linked List
 |  |
@@ -683,6 +686,7 @@
 | [0450-delete-node-in-a-bst](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0450-delete-node-in-a-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0530-minimum-absolute-difference-in-bst) |
+| [0669-trim-a-binary-search-tree](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0669-trim-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Doubly-Linked List
 |  |
