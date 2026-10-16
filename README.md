@@ -90,6 +90,7 @@
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3254-find-the-power-of-k-size-subarrays-i](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3483-unique-3-digit-even-numbers) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
@@ -363,6 +364,7 @@
 | [1652-defuse-the-bomb](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1652-defuse-the-bomb) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2760-longest-even-odd-subarray-with-threshold) |
+| [3254-find-the-power-of-k-size-subarrays-i](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 ## Prefix Sum
 |  |
 | ------- |
