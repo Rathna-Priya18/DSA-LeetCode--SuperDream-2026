@@ -67,6 +67,7 @@
 | [1472-design-browser-history](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1472-design-browser-history) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
+| [1568-minimum-number-of-days-to-disconnect-island](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1584-min-cost-to-connect-all-points) |
 | [1652-defuse-the-bomb](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1652-defuse-the-bomb) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -234,6 +235,7 @@
 | [0778-swim-in-rising-water](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0778-swim-in-rising-water) |
 | [0835-image-overlap](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0835-image-overlap) |
 | [0980-unique-paths-iii](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0980-unique-paths-iii) |
+| [1568-minimum-number-of-days-to-disconnect-island](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1672-richest-customer-wealth](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1672-richest-customer-wealth) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -489,6 +491,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0778-swim-in-rising-water](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0778-swim-in-rising-water) |
 | [0802-find-eventual-safe-states](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0802-find-eventual-safe-states) |
+| [1568-minimum-number-of-days-to-disconnect-island](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 ## Greedy
 |  |
 | ------- |
@@ -619,6 +622,7 @@
 | [0669-trim-a-binary-search-tree](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0669-trim-a-binary-search-tree) |
 | [0778-swim-in-rising-water](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0778-swim-in-rising-water) |
 | [0802-find-eventual-safe-states](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0802-find-eventual-safe-states) |
+| [1568-minimum-number-of-days-to-disconnect-island](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1948-delete-duplicate-folders-in-system](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1948-delete-duplicate-folders-in-system) |
 ## Binary Tree
 |  |
@@ -1063,4 +1067,12 @@
 |  |
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0315-count-of-smaller-numbers-after-self) |
+## Strongly Connected Component
+|  |
+| ------- |
+| [1568-minimum-number-of-days-to-disconnect-island](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
+## Articulation Point
+|  |
+| ------- |
+| [1568-minimum-number-of-days-to-disconnect-island](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 <!---LeetCode Topics End-->
