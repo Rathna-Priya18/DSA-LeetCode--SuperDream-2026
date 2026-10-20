@@ -68,6 +68,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1584-min-cost-to-connect-all-points) |
 | [1652-defuse-the-bomb](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1652-defuse-the-bomb) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -273,6 +274,7 @@
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1686-stone-game-vi](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1686-stone-game-vi) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -347,6 +349,7 @@
 | [1227-airplane-seat-assignment-probability](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1227-airplane-seat-assignment-probability) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -560,6 +563,7 @@
 |  |
 | ------- |
 | [0241-different-ways-to-add-parentheses](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0241-different-ways-to-add-parentheses) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -602,6 +606,7 @@
 | [0572-subtree-of-another-tree](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0572-subtree-of-another-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0669-trim-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -655,6 +660,7 @@
 | [0572-subtree-of-another-tree](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0572-subtree-of-another-tree) |
 | [0669-trim-a-binary-search-tree](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0669-trim-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Linked List
 |  |
 | ------- |
@@ -693,6 +699,7 @@
 | [0307-range-sum-query-mutable](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0307-range-sum-query-mutable) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0347-top-k-frequent-elements](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0347-top-k-frequent-elements) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
@@ -708,6 +715,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0669-trim-a-binary-search-tree](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0669-trim-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -750,6 +758,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2928-distribute-candies-among-children-i](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2928-distribute-candies-among-children-i) |
@@ -951,6 +960,7 @@
 | [0130-surrounded-regions](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0130-surrounded-regions) |
 | [0399-evaluate-division](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0399-evaluate-division) |
 | [0778-swim-in-rising-water](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0778-swim-in-rising-water) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1584-min-cost-to-connect-all-points) |
 ## Dijkstra's Algorithm
 |  |
@@ -1081,4 +1091,8 @@
 |  |
 | ------- |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
