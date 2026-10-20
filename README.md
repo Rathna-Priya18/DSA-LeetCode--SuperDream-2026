@@ -88,6 +88,7 @@
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2547-minimum-cost-to-split-an-array) |
+| [2549-count-distinct-numbers-on-board](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2549-count-distinct-numbers-on-board) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -147,6 +148,7 @@
 | [1948-delete-duplicate-folders-in-system](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1948-delete-duplicate-folders-in-system) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2547-minimum-cost-to-split-an-array) |
+| [2549-count-distinct-numbers-on-board](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2549-count-distinct-numbers-on-board) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -232,6 +234,7 @@
 | [1920-build-array-from-permutation](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1920-build-array-from-permutation) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2073-time-needed-to-buy-tickets) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2549-count-distinct-numbers-on-board](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2549-count-distinct-numbers-on-board) |
 | [3498-reverse-degree-of-a-string](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3498-reverse-degree-of-a-string) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -285,6 +288,7 @@
 | [1686-stone-game-vi](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1686-stone-game-vi) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2396-strictly-palindromic-number](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2396-strictly-palindromic-number) |
+| [2549-count-distinct-numbers-on-board](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2549-count-distinct-numbers-on-board) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2928-distribute-candies-among-children-i](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2928-distribute-candies-among-children-i) |
 | [3227-vowels-game-in-a-string](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3227-vowels-game-in-a-string) |
