@@ -87,6 +87,7 @@
 | [2333-minimum-sum-of-squared-difference](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2425-bitwise-xor-of-all-pairings) |
+| [2547-minimum-cost-to-split-an-array](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2547-minimum-cost-to-split-an-array) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -145,6 +146,7 @@
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1948-delete-duplicate-folders-in-system](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1948-delete-duplicate-folders-in-system) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2547-minimum-cost-to-split-an-array](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2547-minimum-cost-to-split-an-array) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -360,6 +362,7 @@
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [2547-minimum-cost-to-split-an-array](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2547-minimum-cost-to-split-an-array) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3524-find-x-value-of-array-i](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3524-find-x-value-of-array-i) |
 ## Sliding Window
@@ -541,6 +544,7 @@
 | [1079-letter-tile-possibilities](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1079-letter-tile-possibilities) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
+| [2547-minimum-cost-to-split-an-array](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2547-minimum-cost-to-split-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Bit Manipulation
 |  |
