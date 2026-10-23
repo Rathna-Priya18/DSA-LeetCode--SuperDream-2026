@@ -103,6 +103,7 @@
 | [3525-find-x-value-of-array-ii](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -568,6 +569,7 @@
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2425-bitwise-xor-of-all-pairings) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3674-minimum-operations-to-equalize-array) |
 ## Hamiltonian Path
 |  |
