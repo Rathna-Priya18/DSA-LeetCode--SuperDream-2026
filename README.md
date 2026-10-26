@@ -295,6 +295,7 @@
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1686-stone-game-vi](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1686-stone-game-vi) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2396-strictly-palindromic-number](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2396-strictly-palindromic-number) |
 | [2409-count-days-spent-together](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2409-count-days-spent-together) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2549-count-distinct-numbers-on-board) |
@@ -392,6 +393,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1652-defuse-the-bomb](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1652-defuse-the-bomb) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 ## Prefix Sum
@@ -492,6 +494,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1948-delete-duplicate-folders-in-system](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1948-delete-duplicate-folders-in-system) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2409-count-days-spent-together](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3227-vowels-game-in-a-string](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3227-vowels-game-in-a-string) |
