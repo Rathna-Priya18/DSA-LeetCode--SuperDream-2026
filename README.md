@@ -110,6 +110,7 @@
 | [3674-minimum-operations-to-equalize-array](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3674-minimum-operations-to-equalize-array) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3886-sum-of-sortable-integers) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -506,6 +507,7 @@
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3227-vowels-game-in-a-string](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3227-vowels-game-in-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3498-reverse-degree-of-a-string) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Backtracking
 |  |
@@ -589,6 +591,7 @@
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3674-minimum-operations-to-equalize-array](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3674-minimum-operations-to-equalize-array) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Hamiltonian Path
 |  |
@@ -650,6 +653,7 @@
 | [0669-trim-a-binary-search-tree](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0669-trim-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -682,6 +686,7 @@
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1948-delete-duplicate-folders-in-system](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1948-delete-duplicate-folders-in-system) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -752,6 +757,7 @@
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Binary Search Tree
 |  |
@@ -937,6 +943,7 @@
 | [1409-queries-on-a-permutation-with-key](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1409-queries-on-a-permutation-with-key) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Segment Tree
 |  |
@@ -949,6 +956,7 @@
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3525-find-x-value-of-array-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Sweep Line
 |  |
