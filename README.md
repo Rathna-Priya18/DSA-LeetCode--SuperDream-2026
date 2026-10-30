@@ -452,6 +452,7 @@
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -509,6 +510,7 @@
 | [3498-reverse-degree-of-a-string](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3498-reverse-degree-of-a-string) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3863-minimum-operations-to-sort-a-string) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Backtracking
 |  |
 | ------- |
@@ -1077,6 +1079,7 @@
 | [0802-find-eventual-safe-states](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0802-find-eventual-safe-states) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1584-min-cost-to-connect-all-points) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Minimum Spanning Tree
 |  |
 | ------- |
@@ -1098,6 +1101,7 @@
 | ------- |
 | [0399-evaluate-division](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0399-evaluate-division) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Bellman–Ford Algorithm
 |  |
 | ------- |
