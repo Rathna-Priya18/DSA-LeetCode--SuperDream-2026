@@ -35,6 +35,7 @@
 | [0406-queue-reconstruction-by-height](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0406-queue-reconstruction-by-height) |
 | [0413-arithmetic-slices](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0413-arithmetic-slices) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0456-132-pattern](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0456-132-pattern) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0463-island-perimeter](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0463-island-perimeter) |
 | [0486-predict-the-winner](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0486-predict-the-winner) |
@@ -334,6 +335,7 @@
 | [0367-valid-perfect-square](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0367-valid-perfect-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0441-arranging-coins](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0441-arranging-coins) |
+| [0456-132-pattern](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0456-132-pattern) |
 | [0778-swim-in-rising-water](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0778-swim-in-rising-water) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -799,6 +801,7 @@
 | ------- |
 | [0218-the-skyline-problem](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0218-the-skyline-problem) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0315-count-of-smaller-numbers-after-self) |
+| [0456-132-pattern](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0456-132-pattern) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Rolling Hash
@@ -846,6 +849,7 @@
 | [0234-palindrome-linked-list](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0234-palindrome-linked-list) |
 | [0341-flatten-nested-list-iterator](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0341-flatten-nested-list-iterator) |
 | [0394-decode-string](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0394-decode-string) |
+| [0456-132-pattern](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0456-132-pattern) |
 | [0678-valid-parenthesis-string](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -1173,4 +1177,8 @@
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
