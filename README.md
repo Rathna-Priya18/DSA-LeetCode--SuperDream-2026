@@ -492,6 +492,7 @@
 | [0399-evaluate-division](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0399-evaluate-division) |
 | [0412-fizz-buzz](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0412-fizz-buzz) |
 | [0451-sort-characters-by-frequency](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0451-sort-characters-by-frequency) |
+| [0459-repeated-substring-pattern](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0459-repeated-substring-pattern) |
 | [0468-validate-ip-address](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0468-validate-ip-address) |
 | [0537-complex-number-multiplication](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0537-complex-number-multiplication) |
 | [0678-valid-parenthesis-string](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0678-valid-parenthesis-string) |
@@ -825,6 +826,7 @@
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0214-shortest-palindrome) |
+| [0459-repeated-substring-pattern](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0459-repeated-substring-pattern) |
 ## Boyer–Moore String-Search Algorithm
 |  |
 | ------- |
@@ -1023,6 +1025,7 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0214-shortest-palindrome) |
+| [0459-repeated-substring-pattern](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0459-repeated-substring-pattern) |
 | [0572-subtree-of-another-tree](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0572-subtree-of-another-tree) |
 ## Manacher
 |  |
@@ -1032,6 +1035,7 @@
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0214-shortest-palindrome) |
+| [0459-repeated-substring-pattern](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0459-repeated-substring-pattern) |
 ## Union-Find
 |  |
 | ------- |
