@@ -63,6 +63,7 @@
 | [0980-unique-paths-iii](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0980-unique-paths-iii) |
 | [1089-duplicate-zeros](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1089-duplicate-zeros) |
 | [1254-number-of-closed-islands](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1267-count-servers-that-communicate) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1409-queries-on-a-permutation-with-key](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1409-queries-on-a-permutation-with-key) |
@@ -273,6 +274,7 @@
 | [0835-image-overlap](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0835-image-overlap) |
 | [0980-unique-paths-iii](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0980-unique-paths-iii) |
 | [1254-number-of-closed-islands](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1267-count-servers-that-communicate) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1672-richest-customer-wealth](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1672-richest-customer-wealth) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1738-find-kth-largest-xor-coordinate-value) |
@@ -566,6 +568,7 @@
 | [0778-swim-in-rising-water](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0778-swim-in-rising-water) |
 | [0802-find-eventual-safe-states](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0802-find-eventual-safe-states) |
 | [1254-number-of-closed-islands](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1267-count-servers-that-communicate) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Greedy
@@ -600,6 +603,7 @@
 | [0945-minimum-increment-to-make-array-unique](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1079-letter-tile-possibilities](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1079-letter-tile-possibilities) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1267-count-servers-that-communicate](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1267-count-servers-that-communicate) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2547-minimum-cost-to-split-an-array) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -710,6 +714,7 @@
 | [0778-swim-in-rising-water](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0778-swim-in-rising-water) |
 | [0802-find-eventual-safe-states](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0802-find-eventual-safe-states) |
 | [1254-number-of-closed-islands](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1267-count-servers-that-communicate) |
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1948-delete-duplicate-folders-in-system](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1948-delete-duplicate-folders-in-system) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -1055,6 +1060,7 @@
 | [0399-evaluate-division](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0399-evaluate-division) |
 | [0778-swim-in-rising-water](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0778-swim-in-rising-water) |
 | [1254-number-of-closed-islands](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1584-min-cost-to-connect-all-points) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
