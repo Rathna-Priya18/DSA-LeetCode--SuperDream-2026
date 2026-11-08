@@ -94,6 +94,7 @@
 | [2537-count-the-number-of-good-subarrays](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2547-minimum-cost-to-split-an-array) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2549-count-distinct-numbers-on-board) |
+| [2747-count-zero-request-servers](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2747-count-zero-request-servers) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
@@ -165,6 +166,7 @@
 | [2537-count-the-number-of-good-subarrays](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2537-count-the-number-of-good-subarrays) |
 | [2547-minimum-cost-to-split-an-array](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2547-minimum-cost-to-split-an-array) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2549-count-distinct-numbers-on-board) |
+| [2747-count-zero-request-servers](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2747-count-zero-request-servers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
@@ -226,6 +228,7 @@
 | [2164-sort-even-and-odd-indices-independently](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2164-sort-even-and-odd-indices-independently) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
+| [2747-count-zero-request-servers](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2747-count-zero-request-servers) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -418,6 +421,7 @@
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2537-count-the-number-of-good-subarrays](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2537-count-the-number-of-good-subarrays) |
+| [2747-count-zero-request-servers](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2747-count-zero-request-servers) |
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
