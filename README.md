@@ -82,6 +82,7 @@
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1882-process-tasks-using-servers](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1882-process-tasks-using-servers) |
 | [1920-build-array-from-permutation](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1920-build-array-from-permutation) |
 | [1948-delete-duplicate-folders-in-system](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1948-delete-duplicate-folders-in-system) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2073-time-needed-to-buy-tickets) |
@@ -469,6 +470,7 @@
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1686-stone-game-vi](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1686-stone-game-vi) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1738-find-kth-largest-xor-coordinate-value) |
+| [1882-process-tasks-using-servers](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1882-process-tasks-using-servers) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
