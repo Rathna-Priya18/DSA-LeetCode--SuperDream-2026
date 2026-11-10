@@ -75,6 +75,7 @@
 | [1568-minimum-number-of-days-to-disconnect-island](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1568-minimum-number-of-days-to-disconnect-island) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1584-min-cost-to-connect-all-points) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1652-defuse-the-bomb](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1652-defuse-the-bomb) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1672-richest-customer-wealth](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1672-richest-customer-wealth) |
@@ -255,6 +256,7 @@
 | [1409-queries-on-a-permutation-with-key](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1409-queries-on-a-permutation-with-key) |
 | [1503-last-moment-before-all-ants-fall-out-of-a-plank](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1503-last-moment-before-all-ants-fall-out-of-a-plank) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1545-find-kth-bit-in-nth-binary-string) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1920-build-array-from-permutation](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1920-build-array-from-permutation) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2073-time-needed-to-buy-tickets) |
@@ -472,6 +474,7 @@
 | [0703-kth-largest-element-in-a-stream](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0778-swim-in-rising-water](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0778-swim-in-rising-water) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1686-stone-game-vi](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1686-stone-game-vi) |
 | [1738-find-kth-largest-xor-coordinate-value](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1738-find-kth-largest-xor-coordinate-value) |
 | [1882-process-tasks-using-servers](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1882-process-tasks-using-servers) |
@@ -822,6 +825,7 @@
 | [0218-the-skyline-problem](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0218-the-skyline-problem) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0456-132-pattern](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0456-132-pattern) |
+| [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Rolling Hash
