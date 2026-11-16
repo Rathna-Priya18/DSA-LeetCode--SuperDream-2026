@@ -264,6 +264,7 @@
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1920-build-array-from-permutation](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1920-build-array-from-permutation) |
 | [2073-time-needed-to-buy-tickets](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2073-time-needed-to-buy-tickets) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2357-make-array-zero-by-subtracting-equal-amounts](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2357-make-array-zero-by-subtracting-equal-amounts) |
 | [2549-count-distinct-numbers-on-board](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2549-count-distinct-numbers-on-board) |
 | [3498-reverse-degree-of-a-string](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3498-reverse-degree-of-a-string) |
@@ -550,6 +551,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1948-delete-duplicate-folders-in-system](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1948-delete-duplicate-folders-in-system) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2409-count-days-spent-together](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
