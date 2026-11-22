@@ -560,6 +560,7 @@
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1948-delete-duplicate-folders-in-system](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1948-delete-duplicate-folders-in-system) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2409-count-days-spent-together](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2409-count-days-spent-together) |
