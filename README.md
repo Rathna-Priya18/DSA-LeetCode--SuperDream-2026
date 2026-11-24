@@ -110,6 +110,7 @@
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3483-unique-3-digit-even-numbers) |
@@ -342,6 +343,7 @@
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [2928-distribute-candies-among-children-i](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2928-distribute-candies-among-children-i) |
 | [3227-vowels-game-in-a-string](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3227-vowels-game-in-a-string) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3525-find-x-value-of-array-ii) |
@@ -390,6 +392,7 @@
 | [1863-sum-of-all-subset-xor-totals](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2928-distribute-candies-among-children-i](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2928-distribute-candies-among-children-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3483-unique-3-digit-even-numbers) |
 | [3886-sum-of-sortable-integers](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3886-sum-of-sortable-integers) |
 ## Dynamic Programming
@@ -451,6 +454,7 @@
 | [2760-longest-even-odd-subarray-with-threshold](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2760-longest-even-odd-subarray-with-threshold) |
 | [3254-find-the-power-of-k-size-subarrays-i](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3254-find-the-power-of-k-size-subarrays-i) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Prefix Sum
@@ -1116,6 +1120,7 @@
 |  |
 | ------- |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Knapsack Problem
 |  |
 | ------- |
