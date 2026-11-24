@@ -65,6 +65,7 @@
 | [1254-number-of-closed-islands](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1267-count-servers-that-communicate) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1409-queries-on-a-permutation-with-key](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1409-queries-on-a-permutation-with-key) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -330,6 +331,7 @@
 | [1227-airplane-seat-assignment-probability](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1227-airplane-seat-assignment-probability) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1352-product-of-the-last-k-numbers) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -464,6 +466,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0560-subarray-sum-equals-k) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
@@ -1058,6 +1061,7 @@
 | [0705-design-hashset](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0706-design-hashmap) |
 | [0933-number-of-recent-calls](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0933-number-of-recent-calls) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1352-product-of-the-last-k-numbers) |
 | [1472-design-browser-history](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1472-design-browser-history) |
 | [1797-design-authentication-manager](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1797-design-authentication-manager) |
 ## Data Stream
@@ -1065,6 +1069,7 @@
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0933-number-of-recent-calls](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0933-number-of-recent-calls) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1352-product-of-the-last-k-numbers) |
 | [1472-design-browser-history](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1472-design-browser-history) |
 ## Range Minimum/Maximum Query
 |  |
