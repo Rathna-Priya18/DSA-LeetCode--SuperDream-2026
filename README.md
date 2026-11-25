@@ -133,6 +133,7 @@
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3886-sum-of-sortable-integers) |
+| [3934-smallest-unique-subarray](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3934-smallest-unique-subarray) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 | [4011-count-subarrays-with-even-odd-ratio-i](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/4011-count-subarrays-with-even-odd-ratio-i) |
 ## Hash Table
@@ -190,6 +191,7 @@
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3934-smallest-unique-subarray](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3934-smallest-unique-subarray) |
 ## Two Pointers
 |  |
 | ------- |
@@ -375,6 +377,7 @@
 | [2089-find-target-indices-after-sorting-array](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3934-smallest-unique-subarray](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3934-smallest-unique-subarray) |
 ## Recursion
 |  |
 | ------- |
@@ -876,6 +879,7 @@
 | [0187-repeated-dna-sequences](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0187-repeated-dna-sequences) |
 | [0214-shortest-palindrome](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0214-shortest-palindrome) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [3934-smallest-unique-subarray](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3934-smallest-unique-subarray) |
 ## Hash Function
 |  |
 | ------- |
@@ -886,6 +890,7 @@
 | [0706-design-hashmap](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0706-design-hashmap) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1948-delete-duplicate-folders-in-system](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/1948-delete-duplicate-folders-in-system) |
+| [3934-smallest-unique-subarray](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3934-smallest-unique-subarray) |
 ## Z Algorithm
 |  |
 | ------- |
@@ -1257,4 +1262,8 @@
 | ------- |
 | [0456-132-pattern](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/0456-132-pattern) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/Rathna-Priya18/DSA-LeetCode-2026/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
